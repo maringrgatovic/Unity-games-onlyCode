@@ -1,2 +1,2 @@
 # Unity-games-onlyCode
-Javascript code used for some Unity games
+C# code used for some Unity games
